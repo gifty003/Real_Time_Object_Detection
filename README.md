@@ -4,7 +4,7 @@
 ## DEPT   : AI - DS
 
 ## AIM :
-Treal time object detection Using Web Camera.
+The real time object detection Using Web Camera.
 
 ## Software Required :
 Anaconda - Python 3.7
